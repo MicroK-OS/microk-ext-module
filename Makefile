@@ -1,7 +1,7 @@
 include ../../Makefile.inc
 
 MODDIR = .
-MODNAME = vendorid-productid-modname
+MODNAME = cafebabe-e234c0de-ext-module
 
 COMMON_CFLAGS = -ffreestanding             \
 	 -fno-stack-protector          \
